@@ -8,3 +8,25 @@
       experiment_v1.ipynb
        experiment_v2.ipynb
     src/
+      requirements.txt
+
+  docs/
+
+
+     Sprint_Progress_log.docx
+     Daily_Progress_Report.md
+
+  paper/
+      Conference-Template.docx
+        Draft_Paper.docx
+
+  data/
+      raw/
+        processed/
+
+   results/
+        figures/
+           tables/
+    admin/
+      contributors.md
+        roles.md
