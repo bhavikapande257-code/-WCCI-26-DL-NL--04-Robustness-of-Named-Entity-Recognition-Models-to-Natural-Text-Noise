@@ -1,5 +1,5 @@
 
-## [Saumaya],[Upasana]
+## [Saumya],[Upasana]
 - Run experiments
 - Modify code
 - Analyze results
